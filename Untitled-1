@@ -1,0 +1,37 @@
+<div class="container-fluid text-white head" >
+            <div class="row">
+                <div class="col-sm-3">
+                    <div class="row">
+                        <div class="col-sm-2"></div>
+                        <div class="col-sm-2">
+                            <a href="https://www.instagram.com/"><i class="fa fa-instagram fa-1x" aria-hidden="true"></i></a>
+                        </div>
+                        <div class="col-sm-2">
+                            <a href="https://www.instagram.com/"><i class="fa fa-facebook fa-1x" aria-hidden="true"></i></a>    
+                        </div>
+                        <div class="col-sm-2">
+                            <a href="https://www.instagram.com/"><i class="fa fa-twitter fa-1x" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-5"></div>
+                    <div class="col-sm-4" align="right">
+<i class="fas fa-phone-alt" ><text class="white">+91 9212434393</text>  </i>
+                       <i class="far fa-envelope"> onlinedashmesh@gmail.com</i>
+                        
+            </div>
+                
+            </div>
+        </div>
+        
+        
+        
+        
+        
+        
+        <div class="row">
+        <div class="col-sm-5"></div>
+        <div class="col-sm-2"><a href="products.html"><button type="button" class="btn btn-primary lg">VIEW MORE</button></a></div>
+        <div class="col-sm-5"></div>
+        
+        </div>
